@@ -8,7 +8,7 @@ I am an M.A. student at the Economics Department of PUC-Rio.
 
 ## Research Interests
 
-- **Industrial Organization:** discrete choice models, auctions, health markets.
+- **Industrial Organization:** auctions, health markets.
 - **Econometrics:** nonparametric and semi-parametric estimation, partial identification, causal inference, machine learning. 
 
 ## News
