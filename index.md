@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.A. student at PUC-Rio Economics Department.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Industrial Organization:** discrete choice models, auctions, health markets
+- **Econometrics:** nonparametric and semi-parametric estimation, partial identification, causal inference, machine learning  
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2025]** Still building the website. The plan is to have multiple articles on themes of interest.
 
 {% include_relative _includes/publications.md %}
 
