@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Research Assistant</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>SEFAZ, London School of Economics and Columbia Project 2025-present</autocolor></a></li>
+  <li><autocolor>SEFAZ, London School of Economics and Columbia 2025-present</autocolor></li>
   <li><a href="https://www.econ.puc-rio.br/datazoom/english/index.html"><autocolor>Data Zoom 2021-2023</autocolor></a></li>
 </ul>
 
